@@ -1,0 +1,29 @@
+ Players
+-
+player_key serial PK
+full_name VARCHAR 
+first_name VARCHAR
+last_name VARCHAR 
+position VARCHAR 
+college VARCHAR 
+team VARCHAR 
+
+Games
+-
+game_key INTEGER PK
+home_team_abb varchar
+away_team_abb varchar
+week varchar
+season varchar
+game_url varchar
+home_score int
+away_score int
+unique_id varchar
+home_team_full varchar
+away_team_full varchar
+temperature float
+wind_chill float
+humidity varchar
+wind_speed float
+weather_desc varchar
+date date 

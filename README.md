@@ -1,2 +1,13 @@
-# etl_project
-We have decided to build a data inventory of NFL data.  The inspiration for this project is that there are many resources for data but each resource has limits – limited free datasets, limited years, and data that is unrelated – and we would like to have a data source in the future that has a much greater flexibility.etet
+# proj-nfl-etl
+
+
+Author:  Erin James Wills, ejw.data@gmail.com
+
+![election polling project banner](./images/nfl_banner.png)
+<cite>Photo by <a href="https://unsplash.com/@shootwithlou?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Luis Santoyo</a> on <a href="https://unsplash.com/photos/lI0JXf4MRDM?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></cite>
+
+<br>
+
+## Overview  
+<hr>
+
